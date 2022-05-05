@@ -1,6 +1,5 @@
 [![MasterHead](https://miro.medium.com/max/960/0*nFNiujsPqNZUtmcs.png)
 
-
 <h1 align="center">Hi 👋, I'm Momin Taj</h1>
 <h3 align="center">I am an electrical engineer who loves to focus on solving real-world challenges that make an impact on business and society with the aid of Data Science and Machine Learning (Data-driven solutions)</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
